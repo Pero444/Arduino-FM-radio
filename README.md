@@ -1,2 +1,3 @@
 # Arduino-FM-radio
-Arduino FM radio that uses an arduino uno, TEA5767 FM radio module, lcd20x4 with i2c bus, rotary encoder, couple buttons and a PAM840 audio amplifer.
+
+Arduino-based FM radio tuner with rotary encoder tuning, I2C LCD display. Features a custom needle-on-scale UI and station name lookup for Dalmatian/Croatian radio stations.
